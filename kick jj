@@ -7,3 +7,9 @@ pcall(function()
 		LocalPlayer:Kick("Stop Using JJSploit.")
 	end
 end)
+
+
+            game:GetService("StarterGui"):SetCore("SendNotification",{
+            Title = "by C.N";
+            Text = kick kido";
+        })
